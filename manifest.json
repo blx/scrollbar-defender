@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+
+    "name": "Scrollbar Defender",
+    "description": "Prevent scrollbar hijacking",
+    "version": "0.1",
+
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking"
+    ]
+}
