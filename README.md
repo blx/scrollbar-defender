@@ -10,7 +10,7 @@ with your nose.
 
 *(note: ⍺ status)*
 
-This script is currently a bookmarklet. To use, open `[install.html][install]` and
+This script is currently a bookmarklet. To use, open `[install.html][2]` and
 drag the link into your browser’s bookmarks/favourites bar.
 
 Click the bookmark to restore sanity.
@@ -39,4 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [0]: http://jordankoschei.com/why-scrolljacking-is-a-problem/
 [1]: http://nicescroll.areaaperta.com/
-[install]: https://htmlpreview.github.io/?https://github.com/blx/chrome-fucking-scrollbar-defender/blob/install/install.html
+[2]: https://htmlpreview.github.io/?https://github.com/blx/chrome-fucking-scrollbar-defender/blob/install/install.html
