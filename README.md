@@ -8,7 +8,7 @@ with your nose.
 
 ### usage
 
-*(note: α status)*
+*(note: ⍺ status)*
 
 This script is currently a bookmarklet. To use, make a bookmark 
 in your browser with the URI: `javascript:` followed by the source 
