@@ -14,6 +14,8 @@ This script is currently a bookmarklet. To use, make a bookmark
 in your browser with the URI: `javascript:` followed by the source 
 of `cfsd-active-ingredient.js`. Click the bookmark to restore sanity.
 
+--> [Try on the nicescroll homepage!][1]
+
 Technical note: bookmarklet wins over chrome extension because we can 
 execute in the full context of the original document, accessing scripts 
 like nicescroll that the godforsaken page has loaded.
@@ -35,3 +37,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 
 [0]: http://jordankoschei.com/why-scrolljacking-is-a-problem/
+[1]: http://nicescroll.areaaperta.com/
