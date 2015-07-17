@@ -10,9 +10,10 @@ with your nose.
 
 *(note: ⍺ status)*
 
-This script is currently a bookmarklet. To use, make a bookmark 
-in your browser with the URI: `javascript:` followed by the source 
-of `cfsd-active-ingredient.js`. Click the bookmark to restore sanity.
+This script is currently a bookmarklet. To use, drag this link
+into your browser’s bookmarks/favourites bar: [fix scrollbars][cfsd]
+
+Click the bookmark to restore sanity.
 
 --> [Try on the nicescroll homepage!][1]
 
@@ -38,3 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 
 [0]: http://jordankoschei.com/why-scrolljacking-is-a-problem/
 [1]: http://nicescroll.areaaperta.com/
+[cfsd]: javascript:(function(){var h=(jQuery||$)("html");h.getNiceScroll().remove();h.get(0).style.setProperty("overflow-y","scroll","important");})();
