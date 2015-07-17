@@ -10,7 +10,7 @@ with your nose.
 
 *(note: ⍺ status)*
 
-This script is currently a bookmarklet. To use, open `[install.html][2]` and
+This script is currently a bookmarklet. To use, open [install.html][2] and
 drag the link into your browser’s bookmarks/favourites bar.
 
 Click the bookmark to restore sanity.
