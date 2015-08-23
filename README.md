@@ -2,9 +2,9 @@
 
 Overriding native scroll behaviour is [evil][0] in 95% of cases.
 
-It’s **viscerally frustrating**, like reading over someone's 
-shoulder at twice their speed or typing Java getter/setters 
-with your nose.
+It’s **viscerally frustrating**, like reading over someone’s
+shoulder at twice their speed, and because most people do it wrong it
+**sabotages** your interactions with the computer. Please just don’t.
 
 ### usage
 
@@ -21,7 +21,7 @@ Technical note: bookmarklet wins over chrome extension because we can
 execute in the full context of the original document, accessing scripts 
 like nicescroll that the godforsaken page has loaded.
 
-### targets
+### targets / todo
 
 - jquery.nicescroll
 - more tba
